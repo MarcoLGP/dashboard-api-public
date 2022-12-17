@@ -36,7 +36,7 @@ router.post('/signUp/:token', (req, res) => {
                                 service: 'gmail',
                                 auth: {
                                     user: 'marco.luca.brasil@gmail.com',
-                                    pass: 'jyiukuljnntvnzvu'
+                                    pass: "pass"
                                 }
                             });
 
